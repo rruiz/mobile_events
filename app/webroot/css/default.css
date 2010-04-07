@@ -1,0 +1,6 @@
+body { font-family:verdana; }
+h1,h2,h3,h4,h5,h6 { font-weight:normal; }
+a { text-decoration:none; }
+label { font-size: 80%; font-weight:bold; }
+#new_event_link,#edit_event_link { font-size:50%; }
+#flashMessage { color:red; }
